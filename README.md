@@ -1,1 +1,0 @@
-# tedbundyjr.github.io
