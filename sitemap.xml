@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>http://ted.vms.my//2016/hello/</loc>
+      <loc>http://ted.vms.my/2016/hello/</loc>
       
         <lastmod>2016-02-17T00:00:00+08:00</lastmod>
       
@@ -19,24 +19,9 @@
   
     
     <url>
-      <loc>http://ted.vms.my//categories/</loc>
+      <loc>http://ted.vms.my/categories/</loc>
       
-        <lastmod>2016-02-20T01:35:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://ted.vms.my//feed.xml</loc>
-      
-        <lastmod>2016-02-20T01:35:00+08:00</lastmod>
+        <lastmod>2016-02-20T01:45:16+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -49,9 +34,9 @@
   
     
     <url>
-      <loc>http://ted.vms.my//</loc>
+      <loc>http://ted.vms.my/feed.xml</loc>
       
-        <lastmod>2016-02-20T01:35:00+08:00</lastmod>
+        <lastmod>2016-02-20T01:45:16+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -64,9 +49,24 @@
   
     
     <url>
-      <loc>http://ted.vms.my//js/main.js</loc>
+      <loc>http://ted.vms.my/</loc>
       
-        <lastmod>2016-02-20T01:35:00+08:00</lastmod>
+        <lastmod>2016-02-20T01:45:16+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://ted.vms.my/js/main.js</loc>
+      
+        <lastmod>2016-02-20T01:45:16+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -81,9 +81,9 @@
   
     
     <url>
-      <loc>http://ted.vms.my//tags/</loc>
+      <loc>http://ted.vms.my/tags/</loc>
       
-        <lastmod>2016-02-20T01:35:00+08:00</lastmod>
+        <lastmod>2016-02-20T01:45:16+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
