@@ -5,9 +5,30 @@
     <description>A Founder of VMS Services, consultant, developer, hiker, soccer fan, nature enthusiast and a father of 4 kiddos.</description>
     <link>http://tedbundyjr.github.io//</link>
     <atom:link href="http://tedbundyjr.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 20 Feb 2016 02:08:03 +0800</pubDate>
-    <lastBuildDate>Sat, 20 Feb 2016 02:08:03 +0800</lastBuildDate>
+    <pubDate>Sat, 27 Feb 2016 15:13:16 +0800</pubDate>
+    <lastBuildDate>Sat, 27 Feb 2016 15:13:16 +0800</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>How to install git-lfs on debian wheezy (v7)</title>
+        <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# apt-get install python-software-properties&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# add-apt-repository ppa:git-core/ppa&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# apt-get update&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# apt-get install git-lfs&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# git lfs install&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 27 Feb 2016 00:00:00 +0800</pubDate>
+        <link>http://tedbundyjr.github.io//2016/git-lfs/</link>
+        <guid isPermaLink="true">http://tedbundyjr.github.io//2016/git-lfs/</guid>
+        
+        <category>git</category>
+        
+        
+        <category>development</category>
+        
+      </item>
     
       <item>
         <title>Hello Jekyll</title>
@@ -24,7 +45,7 @@
         <category>jekyll</category>
         
         
-        <category>jekyll</category>
+        <category>development</category>
         
       </item>
     
